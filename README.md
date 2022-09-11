@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevinv
 - 👀 I’m interested in education, fitness and business administration
-- 🌱 I’m currently learning SQL Python and Tableau
+- 🌱 I’m currently learning SQL, Python and Tableau
 - 💞️ I’m looking to collaborate on projects related to improving the quality of life for all or those most in need
 - 📫 How to reach me: TrevinCMVaughn@gmail.com
 
