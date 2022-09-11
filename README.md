@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trevinv
+- 👋 Hi, I’m Trevin
 - 👀 I’m interested in education, fitness and business administration
 - 🌱 I’m currently learning SQL, Python and Tableau
 - 💞️ I’m looking to collaborate on projects related to improving the quality of life for all or those most in need
